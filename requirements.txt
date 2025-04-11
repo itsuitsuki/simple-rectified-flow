@@ -1,0 +1,5 @@
+matplotlib==3.10.1
+mediapy==1.2.2
+# torch==2.6.0
+torchvision==0.21.0
+tqdm==4.67.1
